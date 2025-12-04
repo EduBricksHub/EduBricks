@@ -5,9 +5,6 @@ author:
 - name: Dominik Brilhaus
   github: https://github.com/brilator
   orcid: https://orcid.org/0000-0001-9021-3197
----
-
----
 src: '../bricks/data-life-cycle/002-data-life-cycle.md'
 ---
  
